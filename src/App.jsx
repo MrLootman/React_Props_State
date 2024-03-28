@@ -1,5 +1,5 @@
-import './App.css'
-import Avatar from './components/Avatar'
+import './App.css';
+import Avatar from './components/Avatar';
 import { bart, homer } from '../data.js';
 
 function App() {
